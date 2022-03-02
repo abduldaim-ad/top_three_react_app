@@ -1,5 +1,6 @@
 const Sdata=[
     {
+        id: 1,
         plname: "ReactJS",
         imgsrc: "https://wallpapercave.com/dwp1x/wp2465923.jpg",
         title: "Programming Language",
@@ -7,6 +8,7 @@ const Sdata=[
         webname: "React Website"
     },
     {
+        id: 2,
         plname: "JavaScript",
         imgsrc: "https://4beginner.blob.core.windows.net/article/JavaScript-Logo_051220_105700023.png",
         title: "Programming Language",
@@ -14,6 +16,7 @@ const Sdata=[
         webname: "JavaScript Website"
     },
     {
+        id: 3,
         plname: "Python",
         imgsrc: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/300px-Python-logo-notext.svg.png",
         title: "Programming Language",
